@@ -1,5 +1,5 @@
 // Service worker — caches the game so it works fully offline once installed.
-const CACHE = 'simplebubblebobble-v1';
+const CACHE = 'simplebustamove-v1';
 const ASSETS = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', (e) => {
